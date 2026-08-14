@@ -6,9 +6,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Medhanw/Data-Structures/tree/master/0014-longest-common-prefix) |
 | [0704-binary-search](https://github.com/Medhanw/Data-Structures/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Medhanw/Data-Structures/tree/master/0704-binary-search) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Medhanw/Data-Structures/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Medhanw/Data-Structures/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
